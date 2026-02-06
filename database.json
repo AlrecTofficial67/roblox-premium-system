@@ -10,5 +10,9 @@
   "KEY-003": {
     "user": "KINGS_FOR45",
     "expire": "2027-01-15"
+  },
+  "KEY-004": {
+    "user": "BLR_ISAGI05",
+    "expire": "2026-12-31"
   }
-  }
+}
